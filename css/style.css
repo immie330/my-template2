@@ -61,7 +61,7 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: #ff00f7;
 }
 
 nav #active{
